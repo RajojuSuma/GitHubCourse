@@ -1,11 +1,17 @@
 package Tests;
 
+import Pages.SearchPage;
+
 public class SearchPageTest {
 
 	public static void main(String[] args) {
 		
-		System.out.println("sri sairam");
-
+		SearchPage sp = new SearchPage();
+		int s =sp.sum(100, 200);
+		sp.mul(s, 30);
+		
+      
+		
 	}
 
 }
