@@ -15,6 +15,8 @@ public class HomePage {
 	public void sum(int a, int b,int c) {
 		int d =a+b+c;
 		System.out.println(d);
+		System.out.println("sai");
+	String	countary = "usa";
 	}
 		
 			
